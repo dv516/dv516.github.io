@@ -4,11 +4,11 @@ permalink: /about/
 header: "About me"
 ---
 
-I am a first year PhD candidate at Imperial College London, where I also completed my MEng in 2020, and I am expected to graduate in 2024.
+I am a PhD candidate at Imperial College London, where I also completed my MEng in 2020. I am expected to graduate in 2024.
 
- Throughout my undergrad experience, I have had a wide exposure to mechanistic modelling of bioprocesses and numerical methods. But it was my year abroad at Columbia University and my industrial internships (BASF and ExxonMobil) that taught me the importance of digitalisation and especially data-driven and Machine Learning techniques in tomorrow's process industries.
+ Throughout my undergrad experience, I have had a wide exposure to mechanistic modelling of bioprocesses and numerical methods. But it was my year abroad at Columbia University and my industrial internships (BASF and ExxonMobil) that taught me the importance of digitalisation and especially data-driven techniques in tomorrow's process industries.
 
-Currently, I am a part of [Dr. Antonio del Rio Chanona](https://www.imperial.ac.uk/people/a.del-rio-chanona)'s [Optimisation and Machine Learning for Process Engineering](https://www.imperial.ac.uk/optimisation-and-machine-learning-for-process-engineering/about-us/) (OptiMl_PSE) group, co-supervised by [Prof. Nilay Shah](https://www.imperial.ac.uk/people/n.shah).
+Currently, I am a part of [Dr. Antonio del Rio Chanona](https://www.imperial.ac.uk/people/a.del-rio-chanona)'s [Optimisation and Machine Learning for Process Engineering](https://www.imperial.ac.uk/optimisation-and-machine-learning-for-process-engineering/about-us/) (OptiML_PSE) group, co-supervised by [Prof. Nilay Shah](https://www.imperial.ac.uk/people/n.shah).
 
 ## Research interests
 
@@ -18,4 +18,4 @@ In my project *'Data-driven methods for the smart operation of interconnected pr
 2.  When systems cannot be handled in a centralized manner, either due to their size, physical barriers, data sharing protocols or complexity,  address their modelling and optimisation via distributed algorithms.  This should include ways to optimally decompose the system into distributed or hierarchical subsystems (community detection) and to optimally share information.
 3. Horizontally or vertically integrate Reinforcement Learning with conventional Model Predictive Control agents.
 
-The developed methods will be tested on various process-wide control and enterprise-wide supply chain operation case studies, involving potential industrial collaborations.
+These methods will be tested on various process-wide control and enterprise-wide supply chain operation case studies, involving potential industrial collaborations.
