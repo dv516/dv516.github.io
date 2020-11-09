@@ -1,7 +1,7 @@
 ---
 title: "About"
-permalink: /about/
+permalink: \about\
 header: "About me"
 ---
 
-Chemical engineerin etc.
+Chemical engineering etc.
