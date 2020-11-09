@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-GB"
 title                    : "Damien van de Berg"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Damien van de Berg"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD in Chemical Engineering at Imperial College London. Part of OptiML_PSE under the supervision of Dr. Antonio del Rio Chanona and Prof. Nilay Shah"
+  bio              : "PhD in Chemical Engineering at Imperial College London. Part of the OptiML_PSE group under the supervision of Dr. Antonio del Rio Chanona and Prof. Nilay Shah"
   location         : "London, UK"
   email            :
   links:
@@ -107,7 +107,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/DamienvandeBer1"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
