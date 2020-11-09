@@ -1,9 +1,9 @@
 ---
-title: "Test"
-permalink: /Test/
-header: "Test"
+title: "About me"
+permalink: /about/
+header: "About me"
 ---
 
-#header
+# Placeholder for...
 
 Chemical engineering etc.

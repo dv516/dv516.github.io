@@ -1,11 +1,13 @@
 # main links
 main:
   - title: "About me"
+    url: /about/
+  - title: "Codes"
     url: https://dv516.github.io/
-  - title: "Test"
-    url: /Test/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Publications"
+    url: /publications/
+  - title: "Resources"
+    url: /resources/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
