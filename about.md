@@ -1,7 +1,9 @@
 ---
-title: "About"
-permalink: \about\
-header: "About me"
+title: "Test"
+permalink: /Test/
+header: "Test"
 ---
+
+#header
 
 Chemical engineering etc.
