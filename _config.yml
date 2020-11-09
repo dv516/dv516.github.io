@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Damien van de Berg"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/Headshot.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD in Chemical Engineering at Imperial College London. Part of the OptiML_PSE group under the supervision of Dr. Antonio del Rio Chanona and Prof. Nilay Shah"
   location         : "London, UK"
   email            :
