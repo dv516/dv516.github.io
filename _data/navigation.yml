@@ -3,7 +3,7 @@ main:
   - title: "About me"
     url: https://dv516.github.io/
   - title: "About"
-    url: https://dv516.github.io/about/
+    url: /about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
