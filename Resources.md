@@ -17,4 +17,4 @@ This is where I'll be posting my favourite books and other learning materials th
 * On coursera: Based on the same book, with coding assignments and quizzes: University of Alberta's [Reinforcement Learning specialization](https://www.coursera.org/specializations/reinforcement-learning)
 
 ### Optimisation
-* Convex Optimisation: Stephen Boyd's Stanford lectures on [Convex Optimisation I and II](https://www.youtube.com/playlist?list=PL3940DD956CDF0622) based on Vandenberghe and Boyd's [book](https://web.stanford.edu/~boyd/cvxbook/). Boyd is a charismatic and funny teacher, who can seamlessly illucidate some of the more dense material of the field while also teaching a thing or two about control theory.
+* Convex Optimisation: Stephen Boyd's Stanford lectures on [Convex Optimisation I and II](https://www.youtube.com/playlist?list=PL3940DD956CDF0622) based on Vandenberghe and Boyd's [book](https://web.stanford.edu/~boyd/cvxbook/). Boyd is a charismatic and funny teacher, who can seamlessly elucidate some of the more dense material of the field while also teaching a thing or two about control theory.
