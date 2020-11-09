@@ -1,6 +1,7 @@
---
-title: "About me"
-permalink: /About/
---
+---
+title: "About"
+permalink: /about/
+header: "About me"
+---
 
-Chemical Engineer
+Chemical engineerin etc.
