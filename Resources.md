@@ -7,7 +7,7 @@ header: "Resources"
 This is where I'll be posting my favourite books and other learning materials that greatly helped me in learning certain topics.
 
 ### Mathematics
-* Imperial College London's [Mathematics for Machine learning specialisation]() teaches newcomers the (higher-level) basics in calculus and linear algebra before showing how these are applied in Neural Networks, K-Means and Principal Component Analysis.
+* Imperial College London's [Mathematics for Machine learning specialisation](https://www.coursera.org/specializations/mathematics-machine-learning) teaches newcomers the (higher-level) basics in calculus and linear algebra before showing how these are applied in Neural Networks, K-Means and Principal Component Analysis.
 
 ### Reinforcement Learning
 * Sutton & Barto's [Reinforcement Learning: An Introduction](http://www.incompleteideas.net/book/the-book-2nd.html)
