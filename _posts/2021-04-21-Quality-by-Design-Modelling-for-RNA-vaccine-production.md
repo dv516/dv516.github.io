@@ -48,17 +48,17 @@ We propose the following system of differential-algebraic equations to model the
 
 ##### Differential Expressions:
 
-<img align = center src="./Equations/Differential_Expressions.svg">
+<img align = center src="/Equations/Differential_Expressions.svg">
 
 ##### Kinetic Expressions:
 
-<img align = center src="./Equations/Kinetic_Expressions.svg">
+<img align = center src="/Equations/Kinetic_Expressions.svg">
 
 ##### Mass Balance Constraints:
-<img align = center src="./Equations/Mass_Balances.svg">
+<img align = center src="/Equations/Mass_Balances.svg">
 
 ##### Equilibrium Constraints:
-<img align = center src="./Equations/Equilibrium_Constraints.svg">
+<img align = center src="/Equations/Equilibrium_Constraints.svg">
 
 \
 The overall structure of the system, with differential equations describing the change in total concentrations and mass balance and equilibrium considerations giving the (free) solution concentrations that appear in the differential expressions was based on [Akama et al.](https://www.sciencedirect.com/science/article/pii/S0006349511054154). The Michaelis-Menten term was also adapted from this paper. The degradation term was inspired by [Li and Breaker](https://pubs.acs.org/doi/10.1021/ja990592p) and [Bernhardt and Tate](https://biologydirect.biomedcentral.com/articles/10.1186/1745-6150-7-4#:~:text=We%20propose%20that%20RNA%20is,pH%20have%20recently%20been%20documented.).
