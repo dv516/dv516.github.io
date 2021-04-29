@@ -98,15 +98,15 @@ Since the model was already overparameterised and the parameters highly correlat
 
 ### Parameter estimation and modelling results
 
-<img align = center src="./Figures/Modelling.png">
+<img align = center src="/Figures/Modelling.png">
 
 ### Design Space Results and Cost Analysis
 
-<img align = center src="./Figures/Design space and Cost analysis.png">
+<img align = center src="/Figures/Design space and Cost analysis.png">
 
 ### Probabilistic Design Space
 
-<img align = center src="./Figures/Prob Des Space.png">
+<img align = center src="/Figures/Prob Des Space.png">
 
 ### Future Work
 
