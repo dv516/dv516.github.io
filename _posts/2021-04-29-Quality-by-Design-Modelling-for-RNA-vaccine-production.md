@@ -4,7 +4,7 @@ date:   2021-04-29
 layout: single
 author_profile: true
 comments: true
-tags: [python]
+tags: [Quality by Design, Bioprocess modelling, RNA vaccine production]
 ---
 
 # Quality by Design modelling for rapid RNA vaccine production against emerging infectious diseases
