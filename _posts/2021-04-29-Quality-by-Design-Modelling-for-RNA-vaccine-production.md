@@ -1,6 +1,10 @@
 ---
-layout: post
 title:  "Quality by Design modelling for rapid RNA vaccine production"
+date:   2021-04-29
+layout: single
+author_profile: true
+comments: true
+tags: [python]
 ---
 
 # Quality by Design modelling for rapid RNA vaccine production against emerging infectious diseases
