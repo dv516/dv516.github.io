@@ -7,8 +7,6 @@ comments: true
 tags: [Quality by Design, Bioprocess modelling, RNA vaccine production]
 ---
 
-# Quality by Design modelling for rapid RNA vaccine production against emerging infectious diseases
-
 Below is the Documentation.md file to support the code of the following publication about [Quality by design modelling to support rapid RNA vaccine production against emerging infectious diseases](https://www.nature.com/articles/s41541-021-00322-7) . It can be found [here](https://github.com/dv516/RNA-transcription-modelling-and-DS/blob/main/Documentation.md)
 
 
