@@ -12,13 +12,9 @@ My work is situated at the intersection of optimization and Machine Learning app
 ## Research interests
 
 - Data-driven optimization ; Derivative-free optimization ; Black-box optimization ; CUATRO 
-
 - Data-driven/Derivative-free optimization for coordination or bi-level problems in enterprise-wide optimization
-
 - Optimization with embedded (Machine Learning) surrogates
-
 - Reduced-order optimization
-
 - (Multi-Agent) Reinforcement Learning
 
 ## Education
