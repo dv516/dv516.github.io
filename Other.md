@@ -4,17 +4,21 @@ permalink: /other/
 header: "Other"
 ---
 
-This is where I'll be posting my favourite books and other learning materials that greatly helped me in learning certain topics.
+# Awards & Scholarsships 
+* **FIPSE Travel Award** - Free registration and travel to the FIPSE conference in Cretes
+* **Bansal Bursary** - £6,000 to the best performing undergraduate continuing their studies in the department
+* **EPSRC DTA studentship** - Imperial College London - £74,500
 
-### Mathematics
-* Imperial College London's [Mathematics for Machine learning specialisation](https://www.coursera.org/specializations/mathematics-machine-learning) teaches newcomers the (higher-level) basics in calculus and linear algebra before showing how these are applied in Neural Networks, K-Means and Principal Component Analysis.
+---  
 
-### Reinforcement Learning
-* Sutton & Barto's [Reinforcement Learning: An Introduction](http://www.incompleteideas.net/book/the-book-2nd.html)
+# Oral Presentations 
+* BASF Flow Chemistry Conference 2022 - Ludwigshafen - Data-driven techniques for value chain optimization
+* PSE@ResearchDayUK 2022 - London - Data-driven coordination in enterprise-wide optimization
+* EURO 2022 - Espoo - Derivative-free optimization in value chain optimization
+* PSE2021+ - Kyoto - Data-driven coordination of expensive subproblems in enterprise-wide optimization
+* Hot Research Papers - Sargent Center - Data-driven optimization for Process Systems Engineering applications
+* AIChE Annual Meeting 2021 - Boston (virtual) - Digitalizing the Process Industries Via Surrogate Optimization
+* MABC 2021 - Cambridge (virtual) - Derivative-free optimization for Process Systems Engineering applicationss
 
-* If you prefer video materials: [David Silver's lectures at UCL](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) based on the same book
-
-* On coursera: Based on the same book, with coding assignments and quizzes: University of Alberta's [Reinforcement Learning specialization](https://www.coursera.org/specializations/reinforcement-learning)
-
-### Optimisation
-* Convex Optimisation: Stephen Boyd's Stanford lectures on [Convex Optimisation I and II](https://www.youtube.com/playlist?list=PL3940DD956CDF0622) based on Vandenberghe and Boyd's [book](https://web.stanford.edu/~boyd/cvxbook/). Boyd is a charismatic and funny teacher, who can seamlessly elucidate some of the more dense material of the field while also teaching a thing or two about control theory.
+---
+  
